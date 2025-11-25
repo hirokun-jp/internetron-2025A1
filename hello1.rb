@@ -1,3 +1,3 @@
 puts "hello1"
 puts "github"
-puts "syusei1"
+puts "syusei"
